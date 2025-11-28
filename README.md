@@ -1,7 +1,7 @@
-🧠 AI Trading Bot — Binance Futures
+🧠 AI Trading Bot — 
 Fully Automated ML-Powered Crypto Bot with Technical Indicators + Strategy Engine
 
-🚀 A fully automated algorithmic crypto trading bot designed for Binance Futures.
+🚀 A fully automated algorithmic crypto trading bot.
 Built using:
 
 Python
