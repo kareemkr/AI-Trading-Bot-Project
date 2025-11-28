@@ -34,12 +34,40 @@ This bot can operate 24/7 and execute trades based on a configurable rule-based 
        Auto stop-loss
        Auto take-profit
 
- 🔄 4. Continuous Scanning
+🔄 4. Continuous Scanning
        Real-time websocket or REST updates
        Trades top volatile pairs
- 
-  
-   🛡 5. Risk Management
+
+ 🛡 5. Risk Management
        Max drawdown limit
        Cooldown after losses
        Configurable leverage
+
+
+ ⚠️ Disclaimer
+
+           This project is for educational purposes only.
+           Trading crypto involves risk.
+           Use at your own responsibility.
+
+ ✨ Want to use it privately?
+
+  If you're a recruiter / company:
+
+Request access via email
+
+I will grant temporary read-only access
+
+No license → code cannot be used commercially without permission
+
+👤 Author & Contact
+Kareem Radwan
+
+💼 LinkedIn: www.linkedin.com/in/kareem-radwan-11515b2a8
+
+📧 Email: kareemradwan@gmail.com
+
+If you’re a recruiter or company interested in reviewing the private repo, contact me and I will grant temporary read-only access.
+ 
+  
+   
