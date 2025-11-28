@@ -1,21 +1,56 @@
-# Security Policy
+🔐 Security Policy
+Supported Versions
 
-## Supported Versions
+Only the latest version of this project is actively supported with security updates.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Version	Supported
+Latest (main branch)	✅
+Older commits	❌
+Experimental branches	❌
+Archived versions	❌
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+This is an individual project, so only the most recent code receives updates and fixes.
 
-## Reporting a Vulnerability
+Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security vulnerability, please follow the steps below:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Do NOT open a public GitHub issue.
+This exposes the vulnerability before it can be fixed.
+
+Report privately by email:
+📧 kareemradwan@gmail.com
+
+Include the following information:
+
+Clear description of the vulnerability
+
+Steps to reproduce
+
+Affected files or functions
+
+Severity (if known)
+
+Optional: suggested fix
+
+Expected Response Time
+
+You will receive a reply within 48 hours
+
+A fix will typically be released within 7 days, depending on severity
+
+After validation
+
+A patch will be published
+
+A security advisory may be created
+
+Credit may be given (optional — anonymity available)
+
+Additional Notes
+
+This project is for educational and research purposes only.
+
+Unauthorized reuse, distribution, or modification of the code is strictly prohibited.
+
+API keys, trading credentials, or sensitive data must never be shared publicly.
