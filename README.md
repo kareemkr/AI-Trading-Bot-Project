@@ -65,7 +65,7 @@ Kareem Radwan
 
 💼 LinkedIn: www.linkedin.com/in/kareem-radwan-11515b2a8
 
-📧 Email: kareemradwan@gmail.com
+📧 Email: kareemradwan09@gmail.com
 
 If you’re a recruiter or company interested in reviewing the private repo, contact me and I will grant temporary read-only access.
  
