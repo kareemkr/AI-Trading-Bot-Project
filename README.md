@@ -37,7 +37,9 @@ This bot can operate 24/7 and execute trades based on a configurable rule-based 
  🔄 4. Continuous Scanning
        Real-time websocket or REST updates
        Trades top volatile pairs
-🛡 5. Risk Management
+ 
+  
+   🛡 5. Risk Management
        Max drawdown limit
        Cooldown after losses
        Configurable leverage
