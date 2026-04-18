@@ -1,56 +1,58 @@
-🔐 Security Policy
-Supported Versions
+# Security Policy
 
-Only the latest version of this project is actively supported with security updates.
+## Supported Versions
 
-Version	Supported
-Latest (main branch)	✅
-Older commits	❌
-Experimental branches	❌
-Archived versions	❌
+This is an individual research project, so only the latest code on the `main` branch is actively supported with security fixes.
 
-This is an individual project, so only the most recent code receives updates and fixes.
+| Version | Supported |
+| --- | --- |
+| Latest `main` branch | Yes |
+| Older commits | No |
+| Experimental branches | No |
+| Archived versions | No |
 
-Reporting a Vulnerability
+## Reporting a Vulnerability
 
-If you discover a security vulnerability, please follow the steps below:
+If you discover a security issue, please report it privately instead of opening a public GitHub issue.
 
-Do NOT open a public GitHub issue.
-This exposes the vulnerability before it can be fixed.
+Email: [kareemradwan09@gmail.com](mailto:kareemradwan09@gmail.com)
 
-Report privately by email:
-📧 kareemradwan@gmail.com
+Please include:
 
-Include the following information:
+- A clear description of the issue
+- Steps to reproduce it
+- Affected files, functions, or workflows
+- Potential impact or severity, if known
+- Any suggested fix or mitigation, if available
 
-Clear description of the vulnerability
+## Response Expectations
 
-Steps to reproduce
+I will try to review valid security reports within 48 hours.
 
-Affected files or functions
+Fix timing depends on severity and project scope, but critical issues involving credentials, unsafe execution, or exposed secrets will be prioritized.
 
-Severity (if known)
+## Sensitive Data
 
-Optional: suggested fix
+Never share real API keys, exchange credentials, private tokens, JWT secrets, database passwords, or wallet-related secrets in public issues, pull requests, screenshots, logs, or chat messages.
 
-Expected Response Time
+If you accidentally expose a secret:
 
-You will receive a reply within 48 hours
+1. Revoke or rotate the secret immediately.
+2. Remove the secret from the affected environment.
+3. Avoid relying only on deleting a commit, because Git history may still expose the value.
 
-A fix will typically be released within 7 days, depending on severity
+## Trading and Exchange Safety
 
-After validation
+This project is for educational and research purposes only. If live exchange integrations are used, API keys should be configured with the minimum required permissions.
 
-A patch will be published
+Recommended exchange-key rules:
 
-A security advisory may be created
+- Disable withdrawals.
+- Use IP restrictions when supported.
+- Use separate keys for testing and production.
+- Start with paper trading or small controlled tests.
+- Monitor balances, open positions, and order history carefully.
 
-Credit may be given (optional — anonymity available)
+## Disclosure
 
-Additional Notes
-
-This project is for educational and research purposes only.
-
-Unauthorized reuse, distribution, or modification of the code is strictly prohibited.
-
-API keys, trading credentials, or sensitive data must never be shared publicly.
+Please do not publicly disclose a vulnerability until it has been reviewed and, when needed, fixed. Credit can be given for valid reports if the reporter wants attribution.
